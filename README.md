@@ -57,10 +57,10 @@ Model generalizes well on unseen data
 
 # Future Improvements
 
-Add confusion matrix and classification report
-Hyperparameter tuning
-Compare with traditional ML models
-Deploy as a web application 
+Add confusion matrix and classification report,
+Hyperparameter tuning,
+Compare with traditional ML models,
+Deploy as a web application, 
 
 # 👨‍💻 Author
 Shikhar Mishra
